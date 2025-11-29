@@ -1,3 +1,6 @@
+![Overview Dashboard](images/1.png)
+
+
 # 🎮 Video Game Sales Analytics & Prediction (1980–2016)
 
 This project analyzes global video game sales between **1980 and 2016** and explores how
@@ -55,7 +58,7 @@ Key fields used:
 > Insight: Modern era dominates total sales, but a few retro platforms (PS2, X360, PS3, Wii)
 still have very strong lifetime performance.
 
-![Overview Dashboard](images/1.png)
+![Overview Dashboard](images/2.png)
 
 ---
 
